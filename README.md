@@ -1,5 +1,5 @@
 # Minecraft Items Identifier
-![background image](background.jpeg)
+![background image](bg_minecraft.jpeg)
 ### Detectable items
   * Ender Pearls
   * Blaze Rods

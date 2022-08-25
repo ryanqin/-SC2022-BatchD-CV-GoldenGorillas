@@ -8,5 +8,3 @@
   * Diamond Pickaxes
   * Oak Planks
   * Ancient Decris
-
-#### Hello from Ryan on Local Machine

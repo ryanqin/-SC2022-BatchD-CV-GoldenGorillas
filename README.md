@@ -1,4 +1,4 @@
-# Minecraft Items Identifier
+# Minecraft Item Identifier
 ![background image](bg_minecraft.jpeg)
 ### Detectable items
   * Ender Pearls
@@ -7,4 +7,4 @@
   * Sticks
   * Diamond Pickaxes
   * Oak Planks
-  * Ancient Decris
+  * Ancient Debris
